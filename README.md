@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Madalitso Muwawa ,computer scientist
-- 👀 I’m interested in software development, computer science, artificial intelligence, machine learning, data science,  cybersecurity, and blockchain technology.
+- 👀 I’m interested in  artificial intelligence, machine learning, data science,  cybersecurity, and blockchain technology.
 - 🌱 I’m currently learning new programming languages, frameworks, and tools to enhance my skills
      and stay updated with the latest advancements in technology.
 - 💞️ I’m looking to collaborate on open-source projects related to any of my interests mentioned above.
